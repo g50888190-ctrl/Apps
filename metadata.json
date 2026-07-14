@@ -1,0 +1,6 @@
+{
+  "name": "KisanBuy",
+  "description": "India's trusted agriculture marketplace connecting farmers, dealers, buyers, and delivery partners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
